@@ -27,14 +27,14 @@ I'm using this space to:
 ---
 
 ## 🗂️ Structure
-
+'''
 genai-learning/
 ├── notes/          # Written notes and summaries
 ├── experiments/    # Code experiments and tests
 ├── projects/       # Mini-projects and demos
 ├── prompts/        # Prompt engineering examples
 └── README.md       # Project documentation
-
+'''
 
 ---
 
